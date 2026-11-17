@@ -27,7 +27,7 @@ Lemlist shows opens and clicks one event at a time. Our team needed a quick week
 ## Impact
 
 <!-- Replace with your own numbers, e.g.: -->
-_Replaced a manual weekly export process (about X hours per week) and gave the sales team a ranked list of engaged leads and accounts to follow up with._
+_Replaced a manual weekly export process about 2 hours per week and gave the sales team a ranked list of engaged leads and accounts to follow up with._
 
 ## How to run it
 
